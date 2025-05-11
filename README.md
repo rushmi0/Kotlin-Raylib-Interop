@@ -15,6 +15,7 @@
 - https://terrakok.github.io/kmp-web-wizard
 - https://www.jetbrains.com/kotlin-multiplatform
 - https://github.com/Kotlin/kmp-native-wizard
+- https://kotlinlang.org/docs/native-get-started.html#in-ide
 
 ---
 
